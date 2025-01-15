@@ -20,34 +20,6 @@ https://github.com/user-attachments/assets/03d069f4-99f0-401d-a997-cd3771a99602
 
 ui类似Apple Watch，按键1开启ui，支持卡尔曼滤波、插值切换、7种显示色彩和温度，折线图，电池电量。按键2拍照，触摸屏显示任意位置温度不限个数，支持调光。
 
-下图为用户配置设置界面，你可以设置配置你想要的参数，例如是否插值，是否启用卡尔曼滤波，色彩选择等。
-
-<img src="markdown-img/README.assets/image-20250115215152119.png" alt="image-20250115215152119" style="zoom:25%;" /> 
-
-下图是温度折线图界面，左滑即可。
-
-<img src="markdown-img/README.assets/image-20250115215819954.png" alt="image-20250115215819954" style="zoom: 50%;" /> 
-
-下图为电源状态管理界面，右滑即可。
-
-<img src="markdown-img/README.assets/image-20250115215804731.png" alt="image-20250115215804731" style="zoom: 33%;" /> 
-
-下图为相机状态，也就是捕捉热源成像。
-
-<img src="markdown-img/README.assets/image-20250115215555378.png" alt="image-20250115215555378" style="zoom:25%;" /> 
-
-下述就是不同色彩呈现的图示了。
-
-<img src="markdown-img/README.assets/image-20250115220015688.png" alt="image-20250115220015688" style="zoom: 67%;" /> <img src="markdown-img/README.assets/image-20250115220005251.png" alt="image-20250115220005251" style="zoom: 50%;" />
-
-<img src="markdown-img/README.assets/image-20250115215957315.png" alt="image-20250115215957315" style="zoom: 50%;" /> <img src="markdown-img/README.assets/image-20250115215949260.png" alt="image-20250115215949260" style="zoom: 67%;" />
-
-<img src="markdown-img/README.assets/image-20250115215940607.png" alt="image-20250115215940607" style="zoom: 50%;" /> <img src="markdown-img/README.assets/image-20250115215932945.png" alt="image-20250115215932945" style="zoom:50%;" />
-
-<img src="markdown-img/README.assets/image-20250115215925551.png" alt="image-20250115215925551" style="zoom:50%;" /> 
-
-**更多的功能就不演示了，可以看上述链接视频~**
-
 **传统热成像设备的痛点**：
 
 - **价格昂贵**：大多数热成像设备由于采用高端传感器和复杂的硬件设计，导致成本高昂。
@@ -84,3 +56,35 @@ ui类似Apple Watch，按键1开启ui，支持卡尔曼滤波、插值切换、7
 - 二次开发方案
 - 技术支持、全项目内容答疑
 - 项目持续更新中（**任何问题和想法 功能都可以跟我提，我会慢慢跟进解决**）
+
+
+
+# 功能图例
+
+下图为用户配置设置界面，你可以设置配置你想要的参数，例如是否插值，是否启用卡尔曼滤波，色彩选择等。
+
+<img src="markdown-img/README.assets/image-20250115215152119.png" alt="image-20250115215152119" style="zoom:25%;" /> 
+
+下图是温度折线图界面，左滑即可。
+
+<img src="markdown-img/README.assets/image-20250115215819954.png" alt="image-20250115215819954" style="zoom: 50%;" /> 
+
+下图为电源状态管理界面，右滑即可。
+
+<img src="markdown-img/README.assets/image-20250115215804731.png" alt="image-20250115215804731" style="zoom: 33%;" /> 
+
+下图为相机状态，也就是捕捉热源成像。
+
+<img src="markdown-img/README.assets/image-20250115215555378.png" alt="image-20250115215555378" style="zoom:25%;" /> 
+
+下述就是不同色彩呈现的图示了。
+
+<img src="markdown-img/README.assets/image-20250115220015688.png" alt="image-20250115220015688" style="zoom: 67%;" /> <img src="markdown-img/README.assets/image-20250115220005251.png" alt="image-20250115220005251" style="zoom: 50%;" />
+
+<img src="markdown-img/README.assets/image-20250115215957315.png" alt="image-20250115215957315" style="zoom: 50%;" /> <img src="markdown-img/README.assets/image-20250115215949260.png" alt="image-20250115215949260" style="zoom: 67%;" />
+
+<img src="markdown-img/README.assets/image-20250115215940607.png" alt="image-20250115215940607" style="zoom: 50%;" /> <img src="markdown-img/README.assets/image-20250115215932945.png" alt="image-20250115215932945" style="zoom:50%;" />
+
+<img src="markdown-img/README.assets/image-20250115215925551.png" alt="image-20250115215925551" style="zoom:50%;" /> 
+
+**更多的功能就不演示了，可以看上述链接视频~**
