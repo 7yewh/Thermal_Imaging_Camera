@@ -49,10 +49,8 @@ ui类似Apple Watch，按键1开启ui，支持卡尔曼滤波、插值切换、7
 项目包含下述内容
 
 - 硬件部分、PCB制板、BOM表文件等等 (**Hardware**)
-- 外壳、3D打印文件、 (**3D_print**)
-- 软件程序、用于 XX 软件程序 XX 等等(**Software**)
+- 软件程序、用于RP2040软件程序以及LVGL UI等等(**Software**)
 - 上位机（**Upper_computer**）
-- 图示 XX 图例(**Model_trajectories**)
 - 二次开发方案
 - 技术支持、全项目内容答疑
 - 项目持续更新中（**任何问题和想法 功能都可以跟我提，我会慢慢跟进解决**）
