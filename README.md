@@ -8,6 +8,8 @@ This is a small thermal imaging camera that includes everything from hardware an
 
 先进行功能演示：
 
+https://github.com/user-attachments/assets/03d069f4-99f0-401d-a997-cd3771a99602
+
 【图片 视频】....
 
 
