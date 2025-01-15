@@ -8,7 +8,7 @@ This is a small thermal imaging camera that includes everything from hardware an
 
 先进行功能演示：
 
-【图片 视频】
+【图片 视频】....
 
 
 
